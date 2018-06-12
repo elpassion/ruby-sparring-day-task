@@ -19,7 +19,7 @@ może być pomocna.
 
 ### Dos & Don'ts:
 
-- nie zmieniaj implementacji napisanych przez nas testów,
+- nie zmieniaj implementacji napisanych przez nas testów (możesz natomiast dodawać nowe pliki),
 - postaraj się, by Twój kod był dobrze sformatowany i czytelny,
 - jeżeli chcesz, możesz dodać coś od siebie: napisać dodatkowe speki
 albo zaproponować coś poza tym, co obecnie znajduje się w kodzie.
